@@ -10,7 +10,7 @@ Welcome to the **Front-End Development & Hackathon Guide**! This repository serv
 4. [Git & Version Control](#git--version-control)
 5. [React Framework](#react-framework)
 6. [CSS Framework - Tailwind CSS](#css-framework---tailwind-css)
-7. [JavaScript Advanced Concepts](#javascript-advanced-concepts)
+7. [TypeScript](#typescript)
 8. [Debugging & Developer Tools](#debugging--developer-tools)
 9. [Hackathons](#hackathons)
 10. [Best Practices & Final Tips](#best-practices--final-tips)
@@ -101,23 +101,21 @@ Tailwind CSS provides utility-first CSS classes for fast styling and responsive 
 
 ---
 
-## JavaScript Advanced Concepts
+## TypeScript
 
-Explore advanced JavaScript topics that will help you level up your skills and build more complex applications.
+TypeScript is a strongly typed superset of JavaScript that helps catch errors early and make your code more predictable. It’s especially useful when working with large projects and teams.
 
 **Topics:**
 
-- Asynchronous JavaScript (Promises, async/await)
-- Closures, callbacks, and higher-order functions
-- JavaScript ES6+ features (destructuring, template literals, arrow functions)
-- Working with APIs (fetch, axios)
+- TypeScript basics: types, interfaces, and classes
+- TypeScript in React
+- Benefits of TypeScript for front-end development
 
 **Resources:**
 
-- [Understanding Promises (YouTube)](https://www.youtube.com/watch?v=DHvZLI7Db8E)
-- [JavaScript Closures Explained](https://javascript.info/closure)
-- [ES6+ JavaScript Features (YouTube)](https://www.youtube.com/watch?v=IEf1KAcK6A8)
-- [Fetch API (YouTube)](https://www.youtube.com/watch?v=cuEtnrL9-H0)
+- [TypeScript Official Documentation](https://www.typescriptlang.org/docs/)
+- [TypeScript Crash Course (YouTube)](https://www.youtube.com/watch?v=ahCwqrYpIuM)
+- [Using TypeScript with React](https://react-typescript-cheatsheet.netlify.app/)
 
 ---
 
