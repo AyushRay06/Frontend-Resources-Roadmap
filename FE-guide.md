@@ -12,9 +12,7 @@ Welcome to the **Front-End Development & Hackathon Guide**, created by **Ayush R
 6. [CSS Framework - Tailwind CSS](#css-framework---tailwind-css)
 7. [TypeScript](#typescript)
 8. [Debugging & Developer Tools](#debugging--developer-tools)
-9. [Hackathons](#hackathons)
-10. [Best Practices & Final Tips](#best-practices--final-tips)
-11. [Songs to Listen to While Coding](#songs-to-listen-to-while-coding)
+9. [Songs to Listen to While Coding](#songs-to-listen-to-while-coding)
 
 ---
 
