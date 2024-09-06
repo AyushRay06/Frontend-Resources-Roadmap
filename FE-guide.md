@@ -86,7 +86,7 @@ React is a popular JavaScript library for building interactive user interfaces. 
 
 **Resources:**
 
-- [React Crash Course](https://www.youtube.com/watch?v=w7ejDZ8SWv8)
+- [React Crash Course](https://youtu.be/CgkZ7MvWUAA?si=7E88tyYcpTYHMp1n)
 - [React Official Documentation](https://reactjs.org/docs/getting-started.html)
 
 ---
@@ -98,7 +98,7 @@ Tailwind CSS provides utility-first CSS classes for fast styling and responsive 
 **Resources:**
 
 - [Tailwind CSS Documentation](https://tailwindcss.com/docs)
-- [Tailwind CSS Crash Course](https://www.youtube.com/watch?v=UBOj6rqRUME)
+- [Tailwind CSS Crash Course](https://youtu.be/lCxcTsOHrjo?si=XkA6C8l7vtY1WUqb)
 
 ---
 
@@ -115,7 +115,7 @@ TypeScript is a strongly typed superset of JavaScript that helps catch errors ea
 **Resources:**
 
 - [TypeScript Official Documentation](https://www.typescriptlang.org/docs/)
-- [TypeScript Crash Course (YouTube)](https://www.youtube.com/watch?v=ahCwqrYpIuM)
+- [TypeScript Crash Course (YouTube)](https://youtu.be/30LWjhZzg50?si=Wo2WICTaINW7eCCb)
 - [Using TypeScript with React](https://react-typescript-cheatsheet.netlify.app/)
 
 ---
@@ -128,28 +128,6 @@ Learn how to debug your code using browser developer tools, inspect elements, an
 
 - [Chrome DevTools Tutorial](https://www.youtube.com/watch?v=wcFnnxfA70g)
 - [MDN - Debugging JavaScript](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/Debugging)
-
----
-
-## Hackathons
-
-Get ready to participate in hackathons! Learn how to choose a project, collaborate effectively, and present your solution.
-
-**Resources:**
-
-- [How to Win a Hackathon](https://www.youtube.com/watch?v=_OcoSzt7ubI)
-- [Hackathon Guide by Devpost](https://devpost.com/)
-
----
-
-## Best Practices & Final Tips
-
-Ensure your code is clean, maintainable, and easy to read. Follow best practices for organizing your project and documenting your work.
-
-**Resources:**
-
-- [Frontend Best Practices](https://www.youtube.com/watch?v=JgC60T_R5a0)
-- [Building a Frontend Developer Portfolio](https://www.youtube.com/watch?v=xV7S8BhIeBo)
 
 ---
 
