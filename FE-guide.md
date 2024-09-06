@@ -14,6 +14,7 @@ Welcome to the **Front-End Development & Hackathon Guide**! This repository serv
 8. [Debugging & Developer Tools](#debugging--developer-tools)
 9. [Hackathons](#hackathons)
 10. [Best Practices & Final Tips](#best-practices--final-tips)
+11. [Songs to Listen to While Coding](#songs-to-listen-to-while-coding)
 
 ---
 
@@ -152,9 +153,17 @@ Ensure your code is clean, maintainable, and easy to read. Follow best practices
 
 ---
 
-## License
+## Songs to Listen to While Coding
 
-This repository is licensed under the MIT License. Feel free to use it as a reference for your learning journey!
+Music can be a great way to stay focused while coding. Here are some tracks and playlists to help you get into the zone:
+
+- **[Lo-fi Beats](https://www.youtube.com/watch?v=5qap5aO4i9A)** – Relaxing, non-intrusive beats perfect for deep work sessions.
+- **[Coding Music Playlist](https://www.youtube.com/watch?v=JWgW3ogaV84)** – A playlist of upbeat electronic tracks designed to keep you focused.
+- **[Epic Coding Playlist](https://www.youtube.com/watch?v=1SsdRD8bVQY)** – A mix of electronic and instrumental music to fuel your coding sessions.
+- **[Chillhop Music](https://www.youtube.com/watch?v=7NOSDKb0HlU)** – Chillhop tunes to get into a smooth flow while coding.
+- **[Synthwave Playlist](https://www.youtube.com/watch?v=EYW7-hNXZ1o)** – Futuristic synthwave for a high-energy coding experience.
+
+Enjoy the rhythm while you code! 🎧💻
 
 ---
 
