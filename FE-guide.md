@@ -1,6 +1,6 @@
 # Front-End Development & Hackathon Guide
 
-Welcome to the **Front-End Development & Hackathon Guide**! This repository serves as a learning resource for beginners and intermediate developers who are interested in front-end development and preparing for hackathons. It includes a comprehensive roadmap, useful documentation, and links to tutorials and videos.
+Welcome to the **Front-End Development & Hackathon Guide**, created by **Ayush Ray**! This repository serves as a learning resource for beginners and intermediate developers who are interested in front-end development and preparing for hackathons. The resources and roadmap provided here are based on my personal experience and preferences. If you find something better suited to your learning style, feel free to follow that—this is a flexible guide to help you get started!
 
 ## Table of Contents
 
@@ -37,8 +37,8 @@ Front-end development is the practice of creating the user-facing parts of web a
 
 **Resources:**
 
-- [HTML Crash Course](https://www.youtube.com/watch?v=UB1O30fR-EE)
-- [CSS Crash Course](https://www.youtube.com/watch?v=yfoY53QXEnI)
+- [HTML Crash Course](https://youtu.be/HD13eq_Pmp8?si=TNwC_pVacDayLNse)
+- [CSS Crash Course](https://youtu.be/wRNinF7YQqQ?si=bILCEga-ElaVOprG)
 - [MDN Web Docs - HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
 - [MDN Web Docs - CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
 
@@ -53,9 +53,9 @@ JavaScript brings web pages to life with interactive features. Topics include:
 
 **Resources:**
 
-- [JavaScript Crash Course](https://www.youtube.com/watch?v=hdI2bqOjy3c)
+- [JavaScript Crash Course](https://youtu.be/Zi-Q0t4gMC8?si=j5pBdeSW6prsgXXn)
 - [JavaScript.info](https://javascript.info/)
-- [DOM Manipulation Tutorial](https://www.youtube.com/watch?v=wiozYyXQEVk)
+- [DOM Manipulation Tutorial](https://youtu.be/5fb2aPlgoys?si=3xWrmKc3Hmj6JrX2)
 
 ---
 
@@ -71,7 +71,7 @@ Learn to manage your code using Git for collaboration and version control.
 
 **Resources:**
 
-- [Git & GitHub Crash Course](https://www.youtube.com/watch?v=RGOj5yH7evk)
+- [Git & GitHub Crash Course](https://youtube.com/playlist?list=PLinedj3B30sAT6CotNj0iffhRV89SkNK9&si=FwYD_hRKWrDRuaTk)
 - [Pro Git Book](https://git-scm.com/book/en/v2)
 
 ---
