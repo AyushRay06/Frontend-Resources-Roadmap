@@ -10,9 +10,10 @@ Welcome to the **Front-End Development & Hackathon Guide**! This repository serv
 4. [Git & Version Control](#git--version-control)
 5. [React Framework](#react-framework)
 6. [CSS Framework - Tailwind CSS](#css-framework---tailwind-css)
-7. [Debugging & Developer Tools](#debugging--developer-tools)
-8. [Hackathons](#hackathons)
-9. [Best Practices & Final Tips](#best-practices--final-tips)
+7. [JavaScript Advanced Concepts](#javascript-advanced-concepts)
+8. [Debugging & Developer Tools](#debugging--developer-tools)
+9. [Hackathons](#hackathons)
+10. [Best Practices & Final Tips](#best-practices--final-tips)
 
 ---
 
@@ -97,6 +98,26 @@ Tailwind CSS provides utility-first CSS classes for fast styling and responsive 
 
 - [Tailwind CSS Documentation](https://tailwindcss.com/docs)
 - [Tailwind CSS Crash Course](https://www.youtube.com/watch?v=UBOj6rqRUME)
+
+---
+
+## JavaScript Advanced Concepts
+
+Explore advanced JavaScript topics that will help you level up your skills and build more complex applications.
+
+**Topics:**
+
+- Asynchronous JavaScript (Promises, async/await)
+- Closures, callbacks, and higher-order functions
+- JavaScript ES6+ features (destructuring, template literals, arrow functions)
+- Working with APIs (fetch, axios)
+
+**Resources:**
+
+- [Understanding Promises (YouTube)](https://www.youtube.com/watch?v=DHvZLI7Db8E)
+- [JavaScript Closures Explained](https://javascript.info/closure)
+- [ES6+ JavaScript Features (YouTube)](https://www.youtube.com/watch?v=IEf1KAcK6A8)
+- [Fetch API (YouTube)](https://www.youtube.com/watch?v=cuEtnrL9-H0)
 
 ---
 
